@@ -1,1 +1,56 @@
-Hello world
+<DOCTYPE! html>
+<html>
+
+<head>
+	<title>designchallenge1</title>
+</head>
+
+<body>
+   
+   <h1>Which to websites are you most inspired by?</h1>
+   <p>
+   	<ul>
+   		<li><h3><a href="http://www.saturdaysnyc.com">SATURDAYS NYC</a></h3></li>
+   		<li><h3><a href="http://stutterheim.com">STUTTERHEIM</a></h3></li>
+   	</ul>	
+
+   <h1>How do they exhibit effective use of space, size or balance?</h1>
+    <ul>
+    	<li>For Saturdays NYC the top slide show works as a focal point for the viewer as it covers the entire top section. As we move throughout the website they have achieved great hierarchy flow by using different sized imagery to convey different segments of the website, as well as having chosen a white negative space the gently puts each element into a grid system.</li>
+
+    	<li>Stutterheim has chosen a white negative space that makes the company’s logo and name the focal point as you enter the website. The reader is meant to see the headline and subheadline before moving the eyes down towards the slide show of product images. Stutterheim achieves great visual hierarchy in its presentation, and by highlighting the different sections in various image and text sizes the flow of the website is easy to follow.</li>
+    </ul>
+
+   <h1>What makes them similar and different?</h1> 
+    <ul>
+        <li>They share similarities in the way the use imagery to highlight their products, by first have a slide show filling out the top section of their website, to dividing each next section into different images. What is different is where they have place the focal point; Saturdays NYC wants the viewer to look at the product first and then look around the website, whereas Stutterheim has placed its focal point on its logo making the viewer remember the name before browsing the products.What I like about Saturdays NYC is that the top header stays as you scroll down the website allowing the viewer to always click on either shop, locations, home etc. if he needs to. I also really enjoy the simplicity of using white negative space and  very little text in between the images allowing the product to speak for themselves.</li>
+    </ul>
+    
+   <h1>Thumbnail Sketches</h1>
+
+   
+    <ul>
+    
+    <li><strong>Front Page Sketch 1</strong></li> 
+
+   <IMG SRC="thumbnail1.jpg">
+
+  <li><p>I have chosen on Front Page Sketch 1 to have the focal point on the icon in the top left corner to emphasize the name of the brand. Further by chosing a top image slide show, followed by another page filled image, and at the bottom images that directs to the above headlines the flow of the site would be visually balanced and easy to understand. The viewer can access the shop, products, our story etc. from the top headlines, or as he has scrolled down the side to the bottom images.</p></li>
+   
+    <li><strong>Front Page Sketch 2</strong></li>
+
+   <img src="thumbnail1.jpg">
+  
+  <li><p>For the Front Page Sketch 2 I decided to use a simple display of very little headlines by using images that will guide the viewer to the place he would like to go. The Focal point is the Logo and Icon in between the images, and the simplistic grid line structure makes it easy to naviage and understand what the website offer. However, due to its abnormality it could prove to be difficult for some users to understand the layout at first.</p></li>
+
+
+
+
+
+
+
+
+</body>	
+
+</html>
+
