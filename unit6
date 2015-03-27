@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>EVA THORNES | HOME</title>
+
+		<link rel="stylesheet" type="text/css" href="reset.css">
+		<link rel="stylesheet" type="text/css" href="style.css">
+
+	</head>
+	
+	<body>
+		<header>EVA THORNES</header>
+			<nav class="clearfix">
+				<a href="index.html">Home</a>
+				<a href="about.html">About EVA</a>
+				<a href="shop.html">Our little shop</a>
+				<a href="contact.html">Contact us</a>
+			</nav>	
+
+		
+		<div id="wrapper">
+			<div id="content">	
+			<h2></h2><br>
+
+				<div class="column" id="column1">
+				<p>Eva Thornes offers great furniture handcrafted in our atelier.We take old chairs, sofas, curtains, pillows and everything else in your home that needs a little refreshing look and provide the means to give it a makeover.</p></div>
+
+				<div class="column" id="column2">
+				<p>Eva Thornes offers great furniture handcrafted in our atelier.We take old chairs, sofas, curtains, pillows and everything else in your home that needs a little refreshing look and provide the means to give it a makeover.</p></div>
+
+				<div class="column" id="column3">
+				<p>Eva Thornes offers great furniture handcrafted in our atelier.We take old chairs, sofas, curtains, pillows and everything else in your home that needs a little refreshing look and provide the means to give it a makeover.</p>
+			</div>	
+		</div>
+			
+
+
+
+</div>
+
+	<footer>&copy; 2015 Eva Thornes</footer>
+
+	</body>
+	
+</html>			
